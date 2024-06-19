@@ -1,6 +1,5 @@
 # AutoDNS
-Automatically Install DNS Server Based on Kominfo Database
-This script will work only for CentOS, feel free to edit the code to be work for ubuntu.
+Automatically Install DNS Server Based on Kominfo Database. 
 
 # How to Use
 - git clone this repo ( git clone )
@@ -16,6 +15,9 @@ This script will work only for CentOS, feel free to edit the code to be work for
 - copy paste this line "0 0 1 * * root /path/to/your/autodns.sh" edit the path to yours
 - save
 - this cron will automatically run every month to update the DNS Database
+
+# Note
+This script will work only for CentOS, feel free to edit the code to be work for ubuntu.
 
 # Footer
 Feel free to edit the code, just dont forget the credits.
