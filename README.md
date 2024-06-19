@@ -2,7 +2,7 @@
 Automatically Install DNS Server Based on Kominfo Database. 
 
 # How to Use
-- git clone this repo ( git clone )
+- git clone this repo ( git clone https://github.com/adityaakbar1928/AutoDNS.git )
 - cd AutoDNS
 - chmod +x autoDNS.sh
 - ./autoDNS.sh
